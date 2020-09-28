@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### AfreecaTV
 * 재직기간 : 01-2020 ~
 * 업무
- - 멤버십 개발 및 운영
- - 빌링 개발 및 운영
+  - 멤버십 개발 및 운영
+  - 빌링 개발 및 운영
 
 ### Share & Share
 * 재직기간 : 07-2018 ~ 07-2019
