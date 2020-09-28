@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 소개
+* 이름: 김종현
+* 이메일: whdgus8219@naver.com
+
+## 경력
+### AfreecaTV
+* 재직기간 : 01-2020 ~
+* 업무
+ - 멤버십 개발 및 운영
+ - 빌링 개발 및 운영
+
+### Share & Share
+* 재직기간 : 07-2018 ~ 07-2019
+ - Back-end 개발
+ 
+### Tech
+- Java
+- Spring
+- Mysql
+- Docker
+- Kotlin
