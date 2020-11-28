@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 * 이름: 김종현
 * 이메일: whdgus8219@naver.com
 
-## 활동
-### Mash-Up 
-* https://mash-up.it/
 ## 경력
 ### AfreecaTV
 * 재직기간 : 01-2020 ~
@@ -39,3 +36,8 @@ Here are some ideas to get you started:
 - Mysql
 - Docker
 - Kotlin
+
+
+## 활동
+### Mash-Up 
+* https://mash-up.it/
