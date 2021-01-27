@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ### Share & Share
 * 재직기간 : 07-2018 ~ 07-2019
-* 업무
- - Backend 개발
+* 업무  
+  - Backend 개발
  
 ### Tech
 - Java
