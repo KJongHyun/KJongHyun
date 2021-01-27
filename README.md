@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Kakaopay
 * 재직기간 : 01-2021 ~
 * 업무
- - Back-end 개발
+  - Backend 개발
  
 ### AfreecaTV
 * 재직기간 : 01-2020 ~ 01-2021
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Share & Share
 * 재직기간 : 07-2018 ~ 07-2019
 * 업무
- - Back-end 개발
+ - Backend 개발
  
 ### Tech
 - Java
