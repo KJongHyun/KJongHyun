@@ -20,14 +20,20 @@ Here are some ideas to get you started:
 * 이메일: whdgus8219@naver.com
 
 ## 경력
+### Kakaopay
+* 재직기간 : 01-2021 ~
+* 업무
+ - Back-end 개발
+ 
 ### AfreecaTV
-* 재직기간 : 01-2020 ~
+* 재직기간 : 01-2020 ~ 01-2021
 * 업무
   - 멤버십 개발 및 운영
   - 빌링 개발 및 운영
 
 ### Share & Share
 * 재직기간 : 07-2018 ~ 07-2019
+* 업무
  - Back-end 개발
  
 ### Tech
